@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/romainoddone" target="blank"><img src="https://img.shields.io/twitter/follow/romainoddone?logo=twitter&style=for-the-badge" alt="romainoddone" /></a> </p>
 
-- 🔭 I’m currently working at **Access It (France) as software architect**
+- 🔭 I’m currently working at **Access It (France) as Head Of Engineering**
 
 - 💬 Ask me about **C#, Vue.js, Docker, devops**
 
